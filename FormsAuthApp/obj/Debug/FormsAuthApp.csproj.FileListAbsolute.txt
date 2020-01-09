@@ -1,0 +1,60 @@
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\FormsAuthApp.dll.config
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\FormsAuthApp.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\FormsAuthApp.pdb
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\Antlr3.Runtime.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\EntityFramework.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\EntityFramework.SqlServer.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\Newtonsoft.Json.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\System.Web.Helpers.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\System.Web.Mvc.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\System.Web.Optimization.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\System.Web.Razor.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\System.Web.WebPages.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\WebGrease.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\EntityFramework.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\EntityFramework.SqlServer.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\System.Web.Helpers.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\System.Web.Mvc.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\System.Web.Optimization.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\System.Web.Razor.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\System.Web.WebPages.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\Newtonsoft.Json.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\bin\Antlr3.Runtime.pdb
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\obj\Debug\FormsAuthApp.csprojResolveAssemblyReference.cache
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\obj\Debug\FormsAuthApp.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthApp\FormsAuthApp\obj\Debug\FormsAuthApp.pdb
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\FormsAuthApp.dll.config
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\FormsAuthApp.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\FormsAuthApp.pdb
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\Antlr3.Runtime.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\EntityFramework.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\EntityFramework.SqlServer.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\Newtonsoft.Json.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\System.Web.Helpers.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\System.Web.Mvc.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\System.Web.Optimization.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\System.Web.Razor.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\System.Web.WebPages.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\WebGrease.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\EntityFramework.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\EntityFramework.SqlServer.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\System.Web.Helpers.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\System.Web.Mvc.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\System.Web.Optimization.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\System.Web.Razor.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\System.Web.WebPages.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\Newtonsoft.Json.xml
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\bin\Antlr3.Runtime.pdb
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\obj\Debug\FormsAuthApp.csprojResolveAssemblyReference.cache
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\obj\Debug\FormsAuthApp.dll
+C:\Users\$ARVARBEK\Desktop\FormsAuthentication (Database first)\FormsAuthApp\obj\Debug\FormsAuthApp.pdb
